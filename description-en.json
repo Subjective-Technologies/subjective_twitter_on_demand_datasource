@@ -1,4 +1,5 @@
 {
+  "description": "Fetches on-demand tweets for configured queries/profiles via the trading datasource layer and emits structured tweet datasets.",
   "domainCategory": "Communication",
   "subjectiveTechnologyElement": "KnowledgeHooks",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Twitter On Demand",
-      "text": "Subjective datasource implementation for SubjectiveTwitterOnDemandDataSource.",
+      "text": "Fetches on-demand tweets for configured queries/profiles via the trading datasource layer and emits structured tweet datasets.",
       "image": {
         "src": "/subjective_twitter_on_demand_datasource/icon.svg",
         "alt": "Twitter On Demand icon"
